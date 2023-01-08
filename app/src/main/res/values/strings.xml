@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Medicine Organizer</string>
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="example_email">example@email.com</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="create_account">Create account</string>
+    <string name="recovery_account">Recovery account</string>
+</resources>

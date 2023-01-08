@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Remédios em Dia</string>
+    <string name="prompt_password">Senha</string>
+    <string name="example_email">exemplo@email.com</string>
+    <string name="create_account">Criar conta</string>
+    <string name="recovery_account">Recuperar conta</string>
+</resources>
