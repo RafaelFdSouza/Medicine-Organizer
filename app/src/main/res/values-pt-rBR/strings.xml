@@ -5,4 +5,5 @@
     <string name="example_email">exemplo@email.com</string>
     <string name="create_account">Criar conta</string>
     <string name="recovery_account">Recuperar conta</string>
+    <string name="send">Enviar</string>
 </resources>

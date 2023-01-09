@@ -6,4 +6,5 @@
     <string name="login" translatable="false">Login</string>
     <string name="create_account">Create account</string>
     <string name="recovery_account">Recovery account</string>
+    <string name="send">Send</string>
 </resources>

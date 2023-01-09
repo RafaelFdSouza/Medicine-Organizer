@@ -2,7 +2,7 @@ package br.com.rafael.medicineorganizer.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import br.com.rafael.medicineorganizer.R
+import androidx.navigation.fragment.NavHostFragment
 import br.com.rafael.medicineorganizer.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+
+        supportFragmentManager.findFragmentById(binding.mainGraph.id) as NavHostFragment
     }
 }
