@@ -93,7 +93,7 @@
             android:autofillHints="Password" />
 
         <Button
-            android:id="@+id/btn_create_account"
+            android:id="@+id/btn_login"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="32dp"
